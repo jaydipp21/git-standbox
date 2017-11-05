@@ -4,5 +4,10 @@ Both were agreed to make changes at the cost of 4.5
 This is changes for file 4
 
 refs/remotes/origin/master
+<<<<<<< HEAD
 In the middle i want to make changes with bug_fix
 
+
+
+Fixed a bug.
+>>>>>>> master
